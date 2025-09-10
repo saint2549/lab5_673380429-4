@@ -1,0 +1,36 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757502971
+default_bus_layout.tres::AudioBusLayout::-1::1757502961::0::1::::<><><>0<>0<><>::
+default_env.tres::Environment::-1::1757502961::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1757502962::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D::3187023585191377858::1757502962::1757502971::1::::<><><>0<>0<>c041e0146aa7f72cf3b85c56d8ef9661<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+::res://art/::1757503386
+body.material::StandardMaterial3D::-1::1757502961::0::1::::<><><>0<>0<><>::
+eye.material::StandardMaterial3D::-1::1757502961::0::1::::<><><>0<>0<><>::
+Horse.glb::PackedScene::14513451554533397::1757502961::1757502974::1::::<><><>0<>0<>9e73dfb807b928e67ebfbb517730e870<>res://.godot/imported/Horse.glb-e4f32eca1e5d6a999c9e9a4e5fcd84de.scn::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::8546155360784874530::1757502961::1757502971::1::::<><><>0<>0<>1f74aa4caee690b89db24ad16b6f9292<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+mob.glb::PackedScene::202343229610168245::1757502961::1757502975::1::::<><><>0<>0<>b2992f509f4fb8e5a6299f7a5e0e129f<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.material::StandardMaterial3D::-1::1757502961::0::1::::<><><>0<>0<><>::
+mob_eye.material::StandardMaterial3D::-1::1757502961::0::1::::<><><>0<>0<><>::
+player.glb::PackedScene::2036874199938333500::1757502961::1757502975::1::::<><><>0<>0<>2c11f92ed9115c14cbcdafdfcd185c8f<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.material::StandardMaterial3D::-1::1757502961::0::1::::<><><>0<>0<><>::
+Wolf.fbx::PackedScene::415119823707569731::1757502961::1757502976::1::::<><><>0<>0<>5b8e1c9fbd662eec7b1f0500765304df<>res://.godot/imported/Wolf.fbx-87550ba135f62caf6ef6bba5940f08c4.scn::
+Wolf.glb::PackedScene::4543187148143729161::1757503386::1757503387::1::::<><><>0<>0<>5e934e073ed9efd14f025966c40aa073<>res://.godot/imported/Wolf.glb-7ece91f545e6f6aff811a2936a552133.scn::
+::res://Assets/::1757502961
+::res://docs/::1757502971
+index.apple-touch-icon.png::CompressedTexture2D::7764205694113927547::1757502961::1757502971::1::::<><><>0<>0<>4a68e86a080770b5ad3d15c9acbe539a<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D::3231396420244437771::1757502961::1757502971::1::::<><><>0<>0<>06b900e27ceeb2ba33284b9bd38bd4c9<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D::2268198287325913431::1757502961::1757502971::1::::<><><>0<>0<>979845b0f211f4173890d9c9ca854df9<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://fonts/::1757502971
+LICENSE.txt::TextFile::-1::1757502962::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile::1671713806284596543::1757502962::1757502971::1::::<><><>0<>0<>84d2ef8270b21d83b4c3788e385e230a<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+::res://Scenes/::1757503365
+main.tscn::PackedScene::7887960910420106763::1757503365::0::1::::<><><>0<>0<><>::uid://c0fwqwnf4agpq::::res://Scripts/main.gd<>uid://bj2t3fmg6u0jq::::res://Scenes/Player.tscn<>uid://d0x7s5m4v826o::::res://Scenes/mob.tscn<>uid://x214808sy6ln::::res://fonts/Montserrat-Medium.ttf<>uid://c1nj8bi486fp2::::res://Scripts/score_label.gd
+mob.tscn::PackedScene::8963440514017479568::1757503068::0::1::::<><><>0<>0<><>::uid://cqghjy6vafvxv::::res://Scripts/mob.gd<>uid://f6c70byx8u64::::res://art/Wolf.fbx
+music_player.tscn::PackedScene::2530020815747142608::1757503365::0::1::::<><><>0<>0<><>::uid://dt026vj6kgv4e::::res://art/House In a Forest Loop.ogg
+Player.tscn::PackedScene::3075062382356164342::1757503365::0::1::::<><><>0<>0<><>::uid://6mwmc4ta6anp::::res://Scripts/player.gd<>uid://hbbf2dt7qw0::::res://art/Horse.glb
+::res://Scripts/::1757502962
+main.gd::GDScript::6539249869512750038::1757502962::0::1::::<>Node<><>0<>0<><>::
+mob.gd::GDScript::5908691532617294079::1757502962::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.gd::GDScript::2201984039905962465::1757502962::0::1::::<>CharacterBody3D<><>0<>0<><>::
+score_label.gd::GDScript::6625193663156317525::1757502962::0::1::::<>Label<><>0<>0<><>::
